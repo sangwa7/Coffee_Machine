@@ -1,0 +1,21 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    The restriction: the class should have the name Main
+    public class Main {
+
+        The start point of your program
+        public static void main(String[] args) {
+            System.out.println("It compiles!"); It prints "It compiles!"
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2161#comment
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/2161#comment">JetBrains
+    Academy</a></html>
+  time: Thu, 29 Oct 2020 12:30:18 UTC
+record: -1

@@ -1,0 +1,24 @@
+type: code
+custom_name: Assignments
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    public class Main {
+
+        public static void main(String[] args) {
+            int a;
+            int b;
+            int c;
+
+            System.out.println(a + " " + b + " " + c);
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2314#comment
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/2314#comment">JetBrains
+    Academy</a></html>
+  time: Thu, 29 Oct 2020 12:17:18 UTC
+record: -1

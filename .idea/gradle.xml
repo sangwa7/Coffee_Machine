@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Coffee Machine/task" />
+            <option value="$PROJECT_DIR$/Problems/Assignments" />
+            <option value="$PROJECT_DIR$/Problems/Assignments (1)" />
+            <option value="$PROJECT_DIR$/Problems/Check burgs" />
+            <option value="$PROJECT_DIR$/Problems/Decrement all" />
+            <option value="$PROJECT_DIR$/Problems/Digits from 0 to 9 in a single line" />
+            <option value="$PROJECT_DIR$/Problems/From 0 to 4" />
+            <option value="$PROJECT_DIR$/Problems/Guest list of a hotel" />
+            <option value="$PROJECT_DIR$/Problems/Hello, Java platform" />
+            <option value="$PROJECT_DIR$/Problems/Hiring a chef" />
+            <option value="$PROJECT_DIR$/Problems/Incorrect comments" />
+            <option value="$PROJECT_DIR$/Problems/Invalid declaration of variables" />
+            <option value="$PROJECT_DIR$/Problems/Next even number" />
+            <option value="$PROJECT_DIR$/Problems/Printing strings in the same order" />
+            <option value="$PROJECT_DIR$/Problems/Replacing 'a' with 'b'" />
+            <option value="$PROJECT_DIR$/Problems/Snail" />
+            <option value="$PROJECT_DIR$/Problems/The Hello World program" />
+            <option value="$PROJECT_DIR$/Problems/The forgotten comments" />
+            <option value="$PROJECT_DIR$/Problems/The sum of digits" />
+            <option value="$PROJECT_DIR$/Problems/We need to learn Java" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
